@@ -1,4 +1,10 @@
 kcel
 ====
 
-KiCAD elements lirbary
+KiCAD component lirbary
+
+All element what exists in KiCAD starndart library, but that I use.
+
+Lirary named asm.lib, and included:
+* BH1772GLC
+* TSOP348xx series  
