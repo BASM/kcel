@@ -27,6 +27,7 @@ for borrowed component see belowe.
 
 Borrowed:
 * lqfp48.mod
+
 > Kicad Library by W. Lain - kcswalter@member.fsf.org
 > 
 > This library is released under the terms of the Creative Commons license v3.0, Attribution-Share Alike.
